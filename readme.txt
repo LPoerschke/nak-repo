@@ -12,3 +12,5 @@ Mergetest Zeile hinzugefügt
 Branch rebase
 
 Stash
+
+Cherrypick
